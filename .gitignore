@@ -1,0 +1,9 @@
+# Data files
+data/raw/*
+data/processed/*
+*.csv
+*.db
+*.sqlite
+
+# Environments
+.venv

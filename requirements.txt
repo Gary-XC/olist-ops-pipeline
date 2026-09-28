@@ -1,0 +1,12 @@
+# Data Wrangling & Database
+pandas==2.2.0
+polars==0.20.7
+duckdb==0.10.0 
+
+# Visualization & Dashboards
+streamlit==1.31.0
+plotly==5.18.0
+
+# Testing & Linting
+pytest==8.0.0
+ruff==0.2.1
